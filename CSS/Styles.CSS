@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Cabin', sans-serif;
+    font-size: large;
+}
+
+body {
+    color: whitesmoke;
+    background-color: #272727;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+h1 {
+    color: #eb115a;
+    text-align: center;
+    font-family: 'Comfortaa', monospace;
+    font-size: 3em;
+    margin: 20px;
+}
+
+p {
+    color: whitesmoke;
+}
+
+a, a em {
+    color: #ebb811;
+    font-weight: bold;
+}
+
+dt, dt em {
+    color: rgb(172, 172, 172);
+}
+
+img, video {
+    height: auto;
+    width: auto;
+    margin: auto;
+    display: block;
+}
